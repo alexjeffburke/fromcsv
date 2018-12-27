@@ -536,10 +536,7 @@ describe("fromData", function() {
           isComplete: true,
           rowObjects: [
             {
-              Foo: "Doe",
-              unknowns: {
-                1: "something"
-              }
+              Foo: "Doe"
             }
           ]
         }
